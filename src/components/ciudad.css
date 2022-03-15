@@ -1,0 +1,26 @@
+.container {
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    width: 300px;
+    height: 450px;
+    background-color: rgb(206, 202, 202);
+    border-radius: 20px;
+    box-shadow: 10px 10px lightsteelblue ;
+
+}
+
+
+.ciudad {
+    margin-top: 40px;
+}
+
+.data {
+    margin: 8px;
+    padding: 8px;
+    color: black;
+    background-color: lightseagreen;
+    border-radius: 5px;
+}
+  
