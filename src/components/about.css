@@ -1,0 +1,12 @@
+.conteiner{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+.caja {
+    width: 900px;
+    padding: 10px;
+    background-color:bisque;
+    color: black;
+    border-radius: 8px;
+}
