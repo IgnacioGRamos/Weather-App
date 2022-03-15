@@ -3,3 +3,11 @@
   flex-wrap: wrap;
   justify-content: center;
 }
+
+.data {
+  margin-top: 50px;
+  padding: 10px;
+  background-color:bisque;
+  color: black;
+  border-radius: 8px;
+}
